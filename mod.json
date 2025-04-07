@@ -1,0 +1,15 @@
+[
+    {
+        "name": "sunrise-test-mod",
+        "description": "A Test Mod using the Sunrise API",
+        "version": "v0.0.1",
+        "sunrise-version": "v0.0.1",
+        "authors": [
+            {
+                "name": "Shintensu",
+                "url": "https://github.com/Shintensu"
+            }
+        ],
+        "tags": [ "Test-Mod" ]
+    }
+]
